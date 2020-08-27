@@ -1,6 +1,3 @@
-/**
- * 
- */
 package lista_array;
 
 import java.util.Random;

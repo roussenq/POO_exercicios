@@ -20,7 +20,7 @@ public class Exercicio_02 {
         for (int i = 0; i < numeros.length; i++) {
             numeros[i] = gerador.nextInt(9) + 1;
             soma += numeros[i];
-            System.out.println("Elemento n�" + (i + 1) + ": " + numeros[i]);
+            System.out.println("Elemento numero: " + (i + 1) + ": " + numeros[i]);
         }
         System.out.println("A soma dos elementos do array �: " + soma);
     }
